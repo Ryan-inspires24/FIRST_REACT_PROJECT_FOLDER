@@ -40,3 +40,27 @@
 .read-the-docs {
   color: #888;
 }
+
+.mssg {
+  color:red
+}
+
+.productsDiv{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 5px
+}
+
+.togglebtn{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #06067a;
+  cursor: pointer;
+  padding-bottom: 5px;
+}
